@@ -33,3 +33,7 @@ accordingly.
 
 What is the worst-case big $\Theta$ complexity of your implementation? Add your
 answer, including your reasoning, to this markdown file.
+
+### Sources
+I looked at classmates code to figure out how to use adjaceny lists with keys and capacities. Before this I had only use adjacency lists as a list of lists. <br/>
+While searching for steps to find an augmenting path I saw that I could use a modified BFS <br/>
